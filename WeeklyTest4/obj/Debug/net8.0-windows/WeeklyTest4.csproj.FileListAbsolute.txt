@@ -1,0 +1,16 @@
+C:\Users\shmue\source\repos\WeeklyTest4\WeeklyTest4\bin\Debug\net8.0-windows\WeeklyTest4.exe
+C:\Users\shmue\source\repos\WeeklyTest4\WeeklyTest4\bin\Debug\net8.0-windows\WeeklyTest4.deps.json
+C:\Users\shmue\source\repos\WeeklyTest4\WeeklyTest4\bin\Debug\net8.0-windows\WeeklyTest4.runtimeconfig.json
+C:\Users\shmue\source\repos\WeeklyTest4\WeeklyTest4\bin\Debug\net8.0-windows\WeeklyTest4.dll
+C:\Users\shmue\source\repos\WeeklyTest4\WeeklyTest4\bin\Debug\net8.0-windows\WeeklyTest4.pdb
+C:\Users\shmue\source\repos\WeeklyTest4\WeeklyTest4\obj\Debug\net8.0-windows\WeeklyTest4.Form1.resources
+C:\Users\shmue\source\repos\WeeklyTest4\WeeklyTest4\obj\Debug\net8.0-windows\WeeklyTest4.csproj.GenerateResource.cache
+C:\Users\shmue\source\repos\WeeklyTest4\WeeklyTest4\obj\Debug\net8.0-windows\WeeklyTest4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shmue\source\repos\WeeklyTest4\WeeklyTest4\obj\Debug\net8.0-windows\WeeklyTest4.AssemblyInfoInputs.cache
+C:\Users\shmue\source\repos\WeeklyTest4\WeeklyTest4\obj\Debug\net8.0-windows\WeeklyTest4.AssemblyInfo.cs
+C:\Users\shmue\source\repos\WeeklyTest4\WeeklyTest4\obj\Debug\net8.0-windows\WeeklyTest4.csproj.CoreCompileInputs.cache
+C:\Users\shmue\source\repos\WeeklyTest4\WeeklyTest4\obj\Debug\net8.0-windows\WeeklyTest4.dll
+C:\Users\shmue\source\repos\WeeklyTest4\WeeklyTest4\obj\Debug\net8.0-windows\refint\WeeklyTest4.dll
+C:\Users\shmue\source\repos\WeeklyTest4\WeeklyTest4\obj\Debug\net8.0-windows\WeeklyTest4.pdb
+C:\Users\shmue\source\repos\WeeklyTest4\WeeklyTest4\obj\Debug\net8.0-windows\WeeklyTest4.genruntimeconfig.cache
+C:\Users\shmue\source\repos\WeeklyTest4\WeeklyTest4\obj\Debug\net8.0-windows\ref\WeeklyTest4.dll

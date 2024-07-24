@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Queries>
+  <Query>
+    <Day>שלישי</Day>
+    <DayMonth>18</DayMonth>
+    <Month>אדר הראשון</Month>
+    <Year>תשפ"ט</Year>
+    <Result>בשלישי בשבת שמונה עשר ימים לירח אדר הראשון בשנת חמשת אלפים ושבע מאות ושמנים ותשע לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>רביעי</Day>
+    <DayMonth>30</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשצ"ג</Year>
+    <Result>ברביעי בשבת שלשים ימים לירח   תשרי שהוא ראש חודש מרחשון בשנת חמשת אלפים ושבע מאות ותשעים ושלוש לבריאת העולם</Result>
+  </Query>
+</Queries>
